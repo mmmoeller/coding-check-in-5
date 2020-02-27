@@ -8,3 +8,52 @@ p {
 btw, this is a CSS comment. Feel free to delete it.
 
  */
+h1{
+  font-family: 'Garamond';
+  font-size:  250%;
+  text-align: center;
+}
+h2{
+  font-weight: bolder;
+  font-family: 'Garamond';
+  font-size: 200%;
+  text-align: center;
+}
+h3{
+  font-size:  150%;
+  font-family: 'Garamond';
+  text-align: left;
+  font-stretch: ultra-expanded ;
+}
+h4{
+  font-size: 125%;
+  font-family: 'Garamond';
+  text-align: left;
+  font-style: initial;
+}
+body{
+  font-family: 'Roboto', sans-serif;
+  margin: 1rem;
+}
+p{
+  text-indent: 0cm;
+  line-height: 1.35;
+  color: navy;
+}
+ul{
+  list-style-type: square;
+  line-height: 1.35;
+  color: navy;
+}
+.loaf{
+  border: dotted cadetblue;
+}
+.sugarc{
+  border: dotted cadetblue;
+}
+.open{
+  text-align: center;
+}
+hr{
+  border: 1px snow;
+}
